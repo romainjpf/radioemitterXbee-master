@@ -1,3 +1,3 @@
-# Gladys Xbee_emitter
+# Gladys radioemitterXbee
 
 Xbee Radio emitter is used to control Xbee power devices.
